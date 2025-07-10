@@ -74,4 +74,4 @@ To deploy on Vercel use the following settings :
 
 ## Community
 If you have questions or any troubles, feel free to reach me on 
-X [@Immutal0_](https://x.com/Immutal0_) and Telegram [@Immutal0](https://t.me/Immutal0)
+X [@Immutal0_](https://x.com/Immutal0_) and Telegram [@frankeindev](https://t.me/frankeindev)
